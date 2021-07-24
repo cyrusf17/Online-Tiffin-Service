@@ -1,0 +1,20 @@
+{"company":[
+	{
+		"name":"1",
+		"numberOfEmployees":"South Indian Special",
+		"ceo":"idli, dosa, sambar, rasam, rice ",
+		"rating":150
+	},
+	{
+		"name":"2",
+		"numberOfEmployees":"Noth Indian Special",
+		"ceo":"Chole Bhature, aalu paratha, dal tadka, sarso ka saag",
+		"rating":100
+	},
+	{
+		"name":"3",
+		"numberOfEmployees":"Goan Special",
+		"ceo":"fried fish, fish curry, rice, chapati",
+		"rating":200
+	}
+]}
